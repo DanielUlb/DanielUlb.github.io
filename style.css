@@ -85,3 +85,16 @@ div img {
     font-size: 1.1em;
     font-weight: 500;
 }
+
+.sectionContent a:link { 
+	color: #006699;
+	text-decoration: none;
+}
+
+.sectionContent a:visited {
+	color:#006699;
+}
+
+.sectionContent a:hover { 
+	color: #E7717D;
+}
