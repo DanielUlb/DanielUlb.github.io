@@ -24,3 +24,8 @@ html, body {
 	font-variant: normal; 
 	font-weight: 700; 
 }
+
+.sectionTitle {
+	float: left;
+	width: 50%;
+}
