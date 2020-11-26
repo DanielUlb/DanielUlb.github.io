@@ -5,3 +5,13 @@ html, body {
     text-rendering: optimizeLegibility;
     background-color: #fcfcfc;
 }
+
+#name h2 {
+	margin-left: 1px;
+	margin-top: 6px;
+	font-family: Optima, Arial, sans-serif; 
+	font-size: 28px; 
+	font-style: normal; 
+	font-variant: normal; 
+	font-weight: 700; 
+}
