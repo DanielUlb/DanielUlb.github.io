@@ -66,6 +66,13 @@ div img {
 	width: 50%;
 }
 
+.sectionTitle h1 {
+	font-size: 1.2em;
+	color: #E7717D;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
 .sectionContent {
 	float: right;
 	width: 100%;
