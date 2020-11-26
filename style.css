@@ -33,6 +33,12 @@ html, body {
 	background: #fcfcfc;
 }
 
+#cvimage {
+	width: 14.5%;
+	float: left;
+	margin-right: 30px;
+}
+
 #cvimage img {
 	width: 100%;
 	height: auto;
