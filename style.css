@@ -1,0 +1,7 @@
+html, body {
+    font: 15px/1 "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #555;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    background-color: #fcfcfc;
+}
