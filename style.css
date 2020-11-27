@@ -98,3 +98,28 @@ div img {
 .sectionContent a:hover { 
 	color: #E7717D;
 }
+
+#contactDetails {
+	float: left;
+	margin-left: 4px;
+}
+
+#contactDetails ul {
+	list-style-type: none;
+	font-size: 1em;
+	margin-top: 5px;
+}
+
+#contactDetails ul li {
+	margin-bottom: 3px;
+	color: #444;
+}
+
+#contactDetails ul li a, a[href^=tel] {
+	color: #006699; 
+	text-decoration: none;
+}
+
+#contactDetails ul li a:hover { 
+	color: #E7717D;
+}
